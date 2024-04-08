@@ -2,7 +2,7 @@
  * Interrupts.h
  *
  *  Created on: Feb 17, 2023
- *      Author: ahmad
+ *      Author: Temsah
  */
 
 #ifndef INC_INTERRUPTS_H_
