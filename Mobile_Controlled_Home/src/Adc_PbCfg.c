@@ -2,7 +2,7 @@
  * Adc_PbCfg.c
  *
  *  Created on: Feb 18, 2023
- *      Author: ahmad
+ *      Author: Temsah
  */
 
 #include "Adc.h"
