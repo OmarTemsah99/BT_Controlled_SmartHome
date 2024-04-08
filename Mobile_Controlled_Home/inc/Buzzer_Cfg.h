@@ -2,7 +2,7 @@
  * Buzzer_Cfg.h
  *
  *  Created on: May 17, 2023
- *      Author: shine
+ *      Author: Temsah
  */
 
 #ifndef INC_BUZZER_CFG_H_
