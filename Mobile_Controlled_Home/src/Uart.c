@@ -2,7 +2,7 @@
  * Uart.c
  *
  *  Created on: Mar 10, 2023
- *      Author: ahmad
+ *      Author: Temsah
  */
 
 #include "Types.h"
