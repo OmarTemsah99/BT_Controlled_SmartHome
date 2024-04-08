@@ -2,7 +2,7 @@
  * Adc.c
  *
  *  Created on: Feb 18, 2023
- *      Author: ahmad
+ *      Author: Temsah
  */
 #include "Types.h"
 #include "Macros.h"
