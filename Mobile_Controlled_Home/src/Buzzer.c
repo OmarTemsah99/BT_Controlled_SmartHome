@@ -2,7 +2,7 @@
  * Buzzer.c
  *
  *  Created on: May 17, 2023
- *      Author: shine
+ *      Author: Temsah
  */
 
 #include "Types.h"
