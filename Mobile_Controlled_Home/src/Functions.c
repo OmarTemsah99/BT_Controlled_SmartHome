@@ -2,7 +2,7 @@
  * Functions.c
  *
  *  Created on: Apr 11, 2023
- *      Author: shine
+ *      Author: Temsah
  */
 
 #include "Functions.h"
