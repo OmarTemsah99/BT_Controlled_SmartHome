@@ -2,7 +2,7 @@
  * Gpt.c
  *
  *  Created on: Feb 24, 2023
- *      Author: ahmad
+ *      Author: Temsah
  */
 
 #include "Types.h"
