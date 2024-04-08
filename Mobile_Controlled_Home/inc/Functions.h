@@ -2,7 +2,7 @@
  * Functions.h
  *
  *  Created on: Apr 11, 2023
- *      Author: shine
+ *      Author: Temsah
  */
 
 #ifndef INC_FUNCTIONS_H_
