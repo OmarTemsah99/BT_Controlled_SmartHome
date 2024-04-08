@@ -2,7 +2,7 @@
  * Pwm.h
  *
  *  Created on: Feb 25, 2023
- *      Author: ahmad
+ *      Author: Temsah
  */
 
 #ifndef INC_PWM_H_
