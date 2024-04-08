@@ -2,7 +2,7 @@
  * ExtInt.c
  *
  *  Created on: Feb 11, 2023
- *      Author: ahmad
+ *      Author: Temsah
  */
 #include "Types.h"
 #include "Registers.h"
