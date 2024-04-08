@@ -2,7 +2,7 @@
  * Registers.h
  *
  *  Created on: Jan 27, 2023
- *      Author: ahmad
+ *      Author: Temsah
  */
 
 #ifndef INC_REGISTERS_H_
