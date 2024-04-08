@@ -2,7 +2,7 @@
  * Delay.h
  *
  *  Created on: Jan 27, 2023
- *      Author: ahmad
+ *      Author: Temsah
  */
 
 #ifndef INC_DELAY_H_
