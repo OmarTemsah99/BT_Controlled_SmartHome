@@ -2,7 +2,7 @@
  * Adc.h
  *
  *  Created on: Feb 21, 2023
- *      Author: shine
+ *      Author: Temsah
  */
 
 #ifndef INC_ADC_H_
