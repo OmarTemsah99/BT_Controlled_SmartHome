@@ -2,7 +2,7 @@
  * Wdt.c
  *
  *  Created on: Mar 4, 2023
- *      Author: ahmad
+ *      Author: Temsah
  */
 #include "Types.h"
 #include "Registers.h"
