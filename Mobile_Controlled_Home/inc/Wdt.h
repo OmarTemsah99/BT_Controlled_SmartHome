@@ -2,7 +2,7 @@
  * Wdt.h
  *
  *  Created on: Mar 4, 2023
- *      Author: ahmad
+ *      Author: Temsah
  */
 
 #ifndef INC_WDT_H_
